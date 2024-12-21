@@ -19,6 +19,11 @@ public class JavaTests {
         double d = 70.0;
         String name = "Ayman";
         String n = new String(c);
-        System.out.println(n);
+        System.out.println(Float.POSITIVE_INFINITY);
+        java.util.Scanner entree = new java.util.Scanner(System.in) ;
+        //String nom = entree.nextLine() ;
+        //System.out.println("nom : " + nom) ;
+        int o = 1;
+        o = 50 ;
     }
 }
